@@ -1,0 +1,126 @@
+.hero-section1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: #f9f9f9;
+}
+
+.hero-content1 {
+    display: flex;
+    flex-direction: column;
+    /* Stack text-animation-container and button vertically */
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    /* Optional: Set a max width for better alignment */
+}
+
+.text-animation-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.text-content {
+    flex: 1;
+    padding-right: 20px;
+    /* Space between text and animation */
+    text-align: left;
+    /* Align text to the left */
+}
+
+.animation-content {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    /* Align animation to the right */
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1rem;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.lottie-animation {
+    margin: 20px 0;
+}
+
+.cta-button {
+    background-color: #007bff;
+    color: white;
+    padding: 12px 24px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px;
+    /* Space above the button */
+}
+
+.cta-button:hover {
+    background-color: #0056b3;
+}
+
+.hero-section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: #f9f9f9;
+}
+
+.hero-content2 {
+    display: flex;
+    flex-direction: column;
+    /* Stack text-animation-container and button vertically */
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    /* Optional: Set a max width for better alignment */
+}
+
+.hero-section3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: #f9f9f9;
+}
+
+.hero-content3 {
+    display: flex;
+    flex-direction: column;
+    /* Stack text-animation-container and button vertically */
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    /* Optional: Set a max width for better alignment */
+}
+
+.hero-section4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 60px;
+    background-color: #f9f9f9;
+}
+
+.hero-content4 {
+    display: flex;
+    flex-direction: column;
+    /* Stack text-animation-container and button vertically */
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    /* Optional: Set a max width for better alignment */
+}
